@@ -1,0 +1,7 @@
+{
+  "layer_height": 0.3,
+  "wall_thickness": 1.2,
+  "infill_sparse_density": 20,
+  "infill_pattern": "Grid",
+  "top_bottom_thickness": 0.8
+}
